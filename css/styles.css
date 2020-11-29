@@ -5859,9 +5859,7 @@ a.close.disabled {
   align-items: center;
   justify-content: center;
   align-self: center;
-  width: 15%;
-  height: 400px;
-  
+  width: 15%;  
   color: #fff;
   text-align: center;
   opacity: 0.5;
@@ -10088,4 +10086,7 @@ header li .nav-link {
   height: 0px;
   background: black;
   margin: 10px;
+}
+.flecha{
+  height: 400px;
 }
